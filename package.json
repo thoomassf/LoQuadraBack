@@ -1,0 +1,24 @@
+{
+  "name": "LoQuadra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fariasthomas/LoQuadra.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fariasthomas/LoQuadra/issues"
+  },
+  "homepage": "https://github.com/fariasthomas/LoQuadra#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "leaflet": "^1.7.1"
+  }
+}
